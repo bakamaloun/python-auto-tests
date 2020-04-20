@@ -1,1 +1,2 @@
 # python-auto-tests
+test
