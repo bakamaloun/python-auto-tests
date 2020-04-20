@@ -1,2 +1,2 @@
 # python-auto-tests
-test
+.py files for https://stepik.org/course/575/syllabus
